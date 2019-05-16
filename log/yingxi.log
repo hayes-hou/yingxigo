@@ -1,0 +1,1 @@
+2019-05-16 10:59:08.519 INFO middleware/logger.go:71 [Web] 2.143444ms | 127.0.0.1 | GET /index | {code: -1, message: }

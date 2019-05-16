@@ -1,0 +1,15 @@
+# 数据库 Master Slave
+db:
+  master:
+      host: root:12345678@(127.0.0.1:3306)/yingxi?charset=utf8&parseTime=True&loc=Local
+  slave:
+      host: root:12345678@(127.0.0.1:3306)/yingxi?charset=utf8&parseTime=True&loc=Local
+  selection: mysql
+  use: true
+
+# Server
+host: 0.0.0.0
+port: :8082
+
+# 日志配置
+logpath: ./conf/log.yaml
