@@ -1,6 +1,6 @@
 /*
-	Copyright 2019 The Tengyue360 Authors. All rights reserved.
-	Ty-Go
+	Copyright 2019 The Yingxi.company Authors. All rights reserved.
+	Go
 	github.com/gin-gonic/gin
 	github.com/golang/protobuf/proto
 	https://github.com/skyhee/gin-doc-cn

@@ -1,6 +1,6 @@
 /*
-	Copyright 2019 The Tengyue360 Authors. All rights reserved.
-	Ty-Go
+	Copyright 2019 The Yingxi.company Authors. All rights reserved.
+	Go
 	https://jasperxu.github.io/gorm-zh/database.html#dbc
 	Model
 */

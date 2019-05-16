@@ -1,9 +1,9 @@
 # 数据库 Master Slave
 db:
   master:
-      host: root:12345678@(127.0.0.1:3306)/yingxi?charset=utf8&parseTime=True&loc=Local
+      host: root:12345678@(127.0.0.1:3306)/yx?charset=utf8&parseTime=True&loc=Local
   slave:
-      host: root:12345678@(127.0.0.1:3306)/yingxi?charset=utf8&parseTime=True&loc=Local
+      host: root:12345678@(127.0.0.1:3306)/yx?charset=utf8&parseTime=True&loc=Local
   selection: mysql
   use: true
 

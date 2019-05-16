@@ -1,6 +1,6 @@
 /*
-	Copyright 2019 The Tengyue360 Authors. All rights reserved.
-	Ty-Go
+	Copyright 2019 The Yingxi.company Authors. All rights reserved.
+	Go
 	github.com/lexkong/log
 	Middleware
 */
