@@ -27,6 +27,6 @@ yingxi-go
 
 make install 安装
 
-JSON http://127.0.0.1:8083/home/houhuiyang
-STRING http://127.0.0.1:8083/test
-WEB VIEW http://127.0.0.1:8083/index
+ JSON http://127.0.0.1:8083/home/houhuiyang
+ STRING http://127.0.0.1:8083/test
+ WEB VIEW http://127.0.0.1:8083/index
