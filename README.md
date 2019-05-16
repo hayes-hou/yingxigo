@@ -1,7 +1,7 @@
 # ty-go
 
 ty-go
-- go build -o tywebv1.0 main.go  tywebv1.0
+- go build -o yxwebv1.0 main.go 
 - conf
     * 配置文件
 - doc
