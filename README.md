@@ -1,6 +1,6 @@
-# ty-go
+# yingxi-go
 
-ty-go
+yingxi-go
 - go build -o yxwebv1.0 main.go 
 - conf
     * 配置文件
